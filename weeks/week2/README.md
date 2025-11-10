@@ -43,9 +43,7 @@
 - Interpreting the results.
 
 
- dataset for data exploration and creation ml models  https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
-
-
+ 
 [course link: https://mlcourse.ai/book/index.html]
 
 [additional courses links: https://www.w3schools.com/python/pandas/default.asp
